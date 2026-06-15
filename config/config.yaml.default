@@ -6,7 +6,7 @@ version: 15
 push: ""
 account:
   #登入账号只需要修改cookie就行了
-  cookie: ""
+  cookie: "igsfp9n5e29fW3RyBy5ZTjgYCEVJVmNarb5Np0iW"
   stuid: ""
   stoken: ""
   mid: ""
